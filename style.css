@@ -29,7 +29,7 @@ a:hover{
 }
 
 .herobg{
-    background: url(images/header-bg.jpg);
+    background: url(images/header-bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -38,7 +38,7 @@ a:hover{
     float:right;
     color: #ffff;
     width: 341px;
-    font-size: 6.1em;
+    font-size: 7.125em;
     letter-spacing: -10px;
     font-weight: 800;
     line-height: 75%;
