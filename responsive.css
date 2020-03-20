@@ -1,14 +1,15 @@
-@media only screen and(max-width:990px){
-    .artcielcent{
+@media only screen and (max-width:990px){
+    .articlecent{
         text-align: center;
     }
     
     .articlecent img{
         margin:auto;
     }
+    
 }
 
-@media only screen and(max-width:700px){
+@media only screen and (max-width:700px){
     .herobg h1{
         float:none;
         width: 100%;
@@ -22,7 +23,7 @@
     }
 }
 
-@media only screen and(max-width:500px){
+@media only screen and (max-width:500px){
     .about-text{
         margin-left: 0px;
         margin-right: 0px;
