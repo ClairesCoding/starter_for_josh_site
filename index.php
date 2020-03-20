@@ -1,7 +1,8 @@
 <?php get_header(); /* Tells WordPress to include header.php */ ?>
       
 <section class="container-fluid aboutbg text-center">
-<?php
+    <div class="container">
+        <?php
 global $more;//define a global variable
 $more = 0;// the global varibale is now equal to 0
 query_posts('cat=2');//look for posts that have the category of 2
@@ -10,12 +11,13 @@ while(have_posts()) :the_post();//LOOP through all the posts and find the one th
 ?>
 <h2><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h2> 
             <div><p class="abouttext"><?php the_content() ?></p></div>
-<?php
+        <?php
 endwhile;
 endif;
 wp_reset_query();?>    
- 
-      </section>
+        <div class="blocker"></div>
+      </div>
+    </section>
       
       <section class="container-fluid articlebg">
           <div class="container">
