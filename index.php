@@ -1,5 +1,6 @@
 <?php get_header(); /* Tells WordPress to include header.php */ ?>
-      <section class="container-fluid aboutbg text-center">
+      
+<section class="container-fluid aboutbg text-center">
       <h2>GAMES &amp;LEVEL DESIGNER</h2>
         <p class="particle"> and particle wizard</p>
         <p class="abouttext">My  name is josh Whitkin. I’m a professional with more than 7 years of industry experience in Games Design, Level design, Scripting and Visual Effects.  What makes me passionate about games is the combination of technology  and creativity, and how multiple disciplines come together to create an interactive experience. Whether I'm designing for puzzle games, 2D platformers or 3D environments.
@@ -15,7 +16,7 @@
               <h3 class="text-center articleT">LATEST ARTCLES</h3>
               </div>
             <div class="col-md-4 articlecent">
-                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/portrait.jpg">
+                <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/portrait.jpg">
               <h4>A PORTRAIT</h4>
                 <p class="date">12 Dec 2020</p>
                 <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
@@ -23,7 +24,7 @@
               </div>
               
             <div class="col-md-4 articlecent">
-            <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/model.jpg">
+            <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/model.jpg">
               <h4>A PORTRAIT</h4>
                 <p class="date">12 Dec 2020</p>
                 <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
@@ -31,7 +32,7 @@
               </div>
               
             <div class="col-md-4 articlecent">
-                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/gamesdesign.jpg">
+                <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/gamesdesign.jpg">
               <h4>A PORTRAIT</h4>
                 <p class="date">12 Dec 2020</p>
                 <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
