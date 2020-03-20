@@ -15,7 +15,7 @@
               <h3 class="text-center articleT">LATEST ARTCLES</h3>
               </div>
             <div class="col-md-4 articlecent">
-                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/portrait.jpg">
+                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/starter_for_josh_site/images/portrait.jpg">
               <h4>A PORTRAIT</h4>
                 <p class="date">12 Dec 2020</p>
                 <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
@@ -23,7 +23,7 @@
               </div>
               
             <div class="col-md-4 articlecent">
-                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/portrait.jpg">
+                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/starter_for_josh_site/images/model.jpg">
               <h4>A PORTRAIT</h4>
                 <p class="date">12 Dec 2020</p>
                 <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
@@ -31,7 +31,7 @@
               </div>
               
             <div class="col-md-4 articlecent">
-                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/portrait.jpg">
+                <img class="image-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/starter_for_josh_site/images/gamedesign.jpg">
               <h4>A PORTRAIT</h4>
                 <p class="date">12 Dec 2020</p>
                 <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
