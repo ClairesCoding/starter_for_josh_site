@@ -26,27 +26,33 @@ wp_reset_query();?>
               <h3 class="text-center articleT">LATEST ARTCLES</h3>
               </div>
             <div class="col-md-4 articlecent">
-                <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/portrait.jpg">
-              <h4>A PORTRAIT</h4>
-                <p class="date">12 Dec 2020</p>
-                <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
-                <p class="contread">continue reading...</p>
+<?php $post_id = 26;
+$queried_post = get_post($post_id);?>
+<?php echo get_the_post_thumbnail($queried_post, 'full', array('class' => 'img-responsive')); ?>
+<h4><?php echo $queried_post->post_title; ?></h4>
+<?php echo $queried_post->post_excerpt; ?>
+<?php echo '<a class="readmore" href="'.get_permalink($queried_post).'"><br>CONTINUE READING</a>';?>   
+
               </div>
               
             <div class="col-md-4 articlecent">
-            <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/model.jpg">
-              <h4>A PORTRAIT</h4>
-                <p class="date">12 Dec 2020</p>
-                <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
-                <p class="contread">continue reading...</p>
+<?php $post_id = 28;
+$queried_post = get_post($post_id);?>
+<?php echo get_the_post_thumbnail($queried_post, 'full', array('class' => 'img-responsive')); ?>
+<h4><?php echo $queried_post->post_title; ?></h4>
+<?php echo $queried_post->post_excerpt; ?>
+<?php echo '<a class="readmore" href="'.get_permalink($queried_post).'"><br>CONTINUE READING</a>';?>   
+
               </div>
               
             <div class="col-md-4 articlecent">
-                <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh10/wp-content/themes/joshsite/images/gamesdesign.jpg">
-              <h4>A PORTRAIT</h4>
-                <p class="date">12 Dec 2020</p>
-                <p>STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of th</p>
-                <p class="contread">continue reading...</p>
+<?php $post_id = 30;
+$queried_post = get_post($post_id);?>
+<?php echo get_the_post_thumbnail($queried_post, 'full', array('class' => 'img-responsive')); ?>
+<h4><?php echo $queried_post->post_title; ?></h4>
+<?php echo $queried_post->post_excerpt; ?>
+<?php echo '<a class="readmore" href="'.get_permalink($queried_post).'"><br>CONTINUE READING</a>';?>   
+
               </div>
             </div>
           </div>
